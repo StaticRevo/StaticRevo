@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Isaac Attard (StaticRevo)
+# Hi there, I'm Isaac Attard (StaticRevo)
 
 I'm a **First Class graduate in Software Development** with a strong interest in building real-world applications, deep learning systems, and full-stack solutions. I enjoy turning complex ideas into working software and continuously pushing my technical skills further through hands-on projects.
 
 ### 🔭 What I’m working on
 
-- 🚀 **Final Year Project – Multi-Label Image Classification using Deep Learning**  
+- **Final Year Project – Multi-Label Image Classification using Deep Learning**  
   A research-driven deep learning system for satellite imagery, including custom CNN architectures, attention mechanisms, Grad-CAM visualizations, and a full Flask-based web interface.
 
 - 🌍 Exploring machine learning applications in environmental and geospatial domains
