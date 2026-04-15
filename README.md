@@ -20,9 +20,9 @@ I'm a **First Class graduate in Software Development** with a strong interest in
 ### 🔭 What I’m working on
 
 - **Final Year Project – Multi-Label Image Classification using Deep Learning**  
-  A research-driven deep learning system for satellite imagery, including custom CNN architectures, attention mechanisms, Grad-CAM visualizations, and a full Flask-based web interface.
+  A research-driven deep learning system for satellite imagery, including custom CNN architectures, attention mechanisms, Grad-CAM visualizations, and a full Flask-based web interface. This is currently being extended for further functionality.
 
-- 🌍 Exploring machine learning applications in environmental and geospatial domains
+- Exploring machine learning applications in environmental and geospatial domains
 
 ### 💼 Projects & Highlights
 
